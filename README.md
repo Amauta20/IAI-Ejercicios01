@@ -1,5 +1,5 @@
 # IAI-Ejercicios01
 
-**Untracker** 👍
-**Add** 👻
-**Modified** 🤣
+*Untracker* 👍
+*Add* 👻
+*Modified* 🤣
